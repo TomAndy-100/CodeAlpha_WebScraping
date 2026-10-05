@@ -26,6 +26,12 @@ The final script automatically:
 - Pandas
 - OpenPyXL
 
+## Learning Resources
+
+- YouTube tutorials and documentation for learning web scraping concepts
+- AI assistance for debugging, understanding errors, and clarifying programming concepts
+- Official Python/library documentation for reference
+
 ## What I Learned
 
 One of the most exciting parts of this project was discovering browser automation with Selenium. Seeing Python control the browser, navigate through multiple pages, and collect data automatically made the connection between programming and automation much clearer to me.
